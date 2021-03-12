@@ -1,9 +1,9 @@
 
 ## Principais observaçôes sobre a linguagem Python
  
- ## Estrutura em python 
+
  
- ## input
+ ## input ()
    O input ele pega as informações digitada do teclado retorna o tipo como String 
    para fazer a conversão para o tipo inteiro e bem simples.
    ```python
