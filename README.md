@@ -1,8 +1,12 @@
 
 ## Observaçôes sobre a linguagem Python
- * A linguagem python foi lançado em 1991 por Guido van Rossum .
+ 
+ ### O que vai haver:
+ * If ternário
+ * For
+ * Sintaxe
 
- ## Estrutura em python 
+ # Estrutura em python 
  
  ## if ternário 
  ```python
@@ -29,5 +33,8 @@ ele vai fazer a contagem de 10 até 1
 ## Sintaxe simples 
  * não é necessario colocar ponto e vírgula 
  * pode ser aspas duplas e aspas simples
+
+## Criação da linguagem python
+A linguagem python foi lançado em 1991 por Guido van Rossum 
  
    
