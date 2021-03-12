@@ -17,7 +17,7 @@ print(f)
  for i in range(0,10):
     print(i)
  ```
- para mexer no incremento:
+ e para mexer no incremento:
  
  ```python
  for i in range(10,0,-1):
