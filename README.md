@@ -2,9 +2,8 @@
 ## Principais observaçôes sobre a linguagem Python
  
  ### O que vai haver:
- * If ternário
- * For
- * Sintaxe
+ * Estrutura da linguagen
+ * Sintaxe "regras"
  * Quando foi criado a linguagem
 
  ## Estrutura em python 
