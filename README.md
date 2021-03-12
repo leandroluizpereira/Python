@@ -1,9 +1,7 @@
 
 # Observaçôes sobre a linguagem Python
 
- * sintaxe simples 
- 
- 
+
  # Estrutura em python 
  ## for 
  
