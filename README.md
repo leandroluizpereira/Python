@@ -1,5 +1,5 @@
 
-## Principais Observaçôes sobre a linguagem Python
+## Principais observaçôes sobre a linguagem Python
  
  ### O que vai haver:
  * If ternário
