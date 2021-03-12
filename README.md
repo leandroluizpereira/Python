@@ -2,7 +2,7 @@
 ## Principais observaçôes sobre a linguagem Python
  
  ### O que vai haver:
- * Estrutura da linguagen
+ * Estrutura da linguagem
  * Sintaxe "regras"
  * Quando foi criado a linguagem
 
