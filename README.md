@@ -30,7 +30,7 @@ print(f)
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
 
 
-## Sintaxe simples 
+## Sintaxe da linguagem "simples" 
  * não é necessario colocar ponto e vírgula 
  * pode ser aspas duplas e aspas simples
 
