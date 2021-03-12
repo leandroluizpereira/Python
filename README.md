@@ -5,6 +5,7 @@
  * If ternário
  * For
  * Sintaxe
+ * Quando foi criado a linguagem
 
  # Estrutura em python 
  
