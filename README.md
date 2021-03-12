@@ -1,8 +1,8 @@
 
-# Observaçôes sobre a linguagem Python
+## Observaçôes sobre a linguagem Python
+    *A linguagem python foi lançado em 1991 por Guido van Rossum em 1991
 
-
- # Estrutura em python 
+ ## Estrutura em python 
  
  ## if ternário 
  ```python
