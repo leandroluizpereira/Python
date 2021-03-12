@@ -10,7 +10,7 @@
  
  ## input
    O input ele pega as informações digitada do teclado retorna o tipo como String 
-   para fazer a conversão e bem simples.
+   para fazer a conversão para o tipo inteiro e bem simples.
    ```python
    print('Digite um valor:')
    n = int(input())
