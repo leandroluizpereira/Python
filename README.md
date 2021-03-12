@@ -4,14 +4,14 @@
 
  # Estrutura em python 
  
- ## if térnario 
+ ## if ternário 
  ```python
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
 print(f)
 ```
  ## for 
  
- o laço de repetiçâo for no python o incremento é interno ou seja não é preciso declarar na estrutura i++ ,e para fazer a contagem tem que sempre usar o método range() exemplo:
+ o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar na estrutura de repetiçâo o i++ ,e para iniciar a contagem tem que sempre usar o método range() exemplo:
  
  ```python 
  for i in range(0,10):
