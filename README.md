@@ -4,8 +4,8 @@
 
  
  ## input ()
-   O input ele pega as informações digitada do teclado retorna o tipo como String 
-   para fazer a conversão para o tipo inteiro e bem simples.
+   O input ele pega as informações digitada do teclado e retorna o tipo para String, 
+   para fazer a conversão para o tipo inteiro e bem simples no python.
    ```python
    print('Digite um valor:')
    n = int(input())
