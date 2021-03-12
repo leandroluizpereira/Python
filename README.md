@@ -27,7 +27,7 @@ print(f)
  for i in range(10,0,-1):
       print(i)
 ```
-ele vai fazer a contagem de 10 até 1
+<strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
 
 
 ## Sintaxe simples 
