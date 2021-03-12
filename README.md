@@ -1,6 +1,6 @@
 
 ## Observaçôes sobre a linguagem Python
-    *A linguagem python foi lançado em 1991 por Guido van Rossum em 1991
+ * A linguagem python foi lançado em 1991 por Guido van Rossum em 1991
 
  ## Estrutura em python 
  
