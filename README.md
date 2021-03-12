@@ -1,6 +1,5 @@
-# Python
-geral
-# Diferença sobre outras linguagem
+
+# Observaçôes sobre a linguagem Python
 
  * sintaxe simples 
  
@@ -8,7 +7,7 @@ geral
  # Estrutura em python 
  ## for 
  
- o laço de repetiçâo for no python o incremento é interno ou seja não é preciso declarar na estrutura i++ ,e para fazer a contagem tem que sempre usar o método range() exemplo
+ o laço de repetiçâo for no python o incremento é interno ou seja não é preciso declarar na estrutura i++ ,e para fazer a contagem tem que sempre usar o método range() exemplo:
  
  ```python 
  for i in range(0,10):
