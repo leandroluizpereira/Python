@@ -7,7 +7,7 @@
  * Sintaxe
  * Quando foi criado a linguagem
 
- # Estrutura em python 
+ ## Estrutura em python 
  
  ## if ternário 
  ```python
