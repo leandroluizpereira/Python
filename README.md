@@ -82,16 +82,16 @@ else:
 ## if composto 
 ```python 
 # if composto: 
-print('Digite um número de 1 a 4')
+print('Digite um número de 1 a 4 ou número qualquer!')
 a = int(input())
 if (a == 2 ):
-  print('a == 2 verdadeiro')
+  print('if a == 2 true')
 elif (a == 3):
-  print('a == 3 verdadeiro')
+  print('if a == 3 true')
 elif (a == 4):
-  print('a == 4 é verdadeiro')
+  print('if a == 4 é true')
 else :
-  print('a == 2 e a == 3 e a == 4 é falso')
+  print('if a == 2 e elif a == 3 e elif a == 4 são false')
 ```
  ## Desvio condicional if ternário 
  ```python
