@@ -79,7 +79,7 @@ if (a==2):
 else:
   print(' O valor a == 2 é falso')
 ```
- ## Dsvio condicional if ternário 
+ ## Desvio condicional if ternário 
  ```python
  #exemplo:
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
