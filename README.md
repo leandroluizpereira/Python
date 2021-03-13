@@ -10,7 +10,7 @@
   ligarCpu = true   # bool
   a = 3.4  # float
   ```
-  # Concatenaçâo da variável
+  ## Concatenaçâo da variável
   ```python 
   #exemplo 
   nome = 'Leandro Luiz Pereira'
@@ -18,7 +18,29 @@
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usados tando vírgula quanto o sinal de + para concatenaçâo.
-  
+  ## Operadores lógico 
+  ```Python
+  a = 20
+  b = 30
+  x = 40
+  y = 39
+  #Exemplo: AND :
+  if(a<b and x<y):
+    print('As duas expressôes são verdadeiro')
+  else:
+    print('As duas expressões são  falsos')
+  #exemplo: OR
+  if(a<b or x<y):
+     print('Um das expressão  são verdadeiro')
+  else:
+     print('As duas expressôes são falso')
+    #Exemplo: com AND e NOT
+  if(a>b and  not x<y):
+    print('as duas expressâo são verdadeiro')
+  else:
+    print('as duas expresão são falso')
+  ```
+     
  
  ## Funçâo input () para entrada de dados do teclado
    O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira colocar um números tem 
