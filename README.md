@@ -6,10 +6,18 @@
   não e necessário colocar o tipo de dados para a variável, a indentificação e automática .
   ```python
   x = 30; # int
-  frase = "Leandro está estudando a linguagen python";  # String
+  frase = 'Leandro está estudando a linguagen python'  # String
   ligarCpu = true   # bool
   a = 3.4  # float
   ```
+  #Concatenaçâo da variável
+  ```python 
+  #exemplo 
+  nome = 'Leandro Luiz Pereira'
+  linguagem ='Dart'
+  print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
+  ```
+  nota-se que pode ser usados tando vírgula quanto o sinal de + para concatenaçâo.
   
  
  ## input ()
