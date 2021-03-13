@@ -74,8 +74,8 @@ print(f)
 
 
 ## Sintaxe da linguagem "simples" 
- * não é necessario colocar ponto e vírgula 
- * pode ser aspas duplas e aspas simples
+ * não é obrigatório colocar ponto e vírgula.
+ * as aspas e opicional pode ser aspas duplas ou aspas simples.
 
 ## Criação da linguagem python
 A linguagem python foi lançado em 1991 por Guido van Rossum 
