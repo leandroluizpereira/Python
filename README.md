@@ -53,7 +53,7 @@
    ## Edentaçâo Python
 ```python 
    
-#Exemplo de edentaçâo com if encadeado
+#Exemplo de edentaçâo com if composto e if encadeado
 a=2
 if (a==2):
   # Espaço tab para estar dentro do if a==2
@@ -79,7 +79,7 @@ if (a==2):
 else:
   print(' O valor a == 2 é falso')
 ```
-## if composto 
+## if encadeado
 ```python 
 # if composto: 
 print('Digite um número de 1 a 4 ou número qualquer!')
