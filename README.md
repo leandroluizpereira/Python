@@ -29,23 +29,23 @@
   if(a<b and x<y):
     print('As duas expressôes são verdadeiro')
   else:
-    print('As duas expressões são  falso')
+    print('As duas expressões são  falsa')
   #exemplo: OR
   if(a<b or x<y):
-     print('Um das expressão  são verdadeiro')
+     print('Uma das expressões são verdadeiro')
   else:
-     print('As duas expressôes são falso')
+     print('As duas expressôes são falsa')
     #Exemplo: com AND e NOT
   if(a>b and  not x<y):
     print('as duas expressâo são verdadeiro')
   else:
-    print('as duas expresão são falso')
+    print('as duas expresões são falso')
   ```
      
  
- ## Funçâo input () para entrada de dados do teclado
-   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira colocar números tem 
-   que fazer a conversão para o tipo  de dados inteiro e bem simples para fazer  no python,exemplo de algoritmo .
+ ## Funçâo input 
+   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira pegar dígitos de números tem 
+   que fazer a conversão da variável para o tipo inteiro, e bem simples fazer esta conversão no python,exemplo:
    ```python
    print('Digite um valor:')
    n = int(input())
@@ -58,7 +58,7 @@ print(f)
 ```
  ## for 
  
- o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar na estrutura de repetiçâo o i++ ,e para iniciar a contagem tem que sempre usar o método range(), exemplo:
+ o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar  o i++ , e para iniciar a contagem tem que sempre usar o método range(), exemplo:
  
  ```python 
  for i in range(0,10):
