@@ -53,7 +53,7 @@
    ## Edentaçâo Python
 ```python 
    
-#Exemplo de edentaçâo com if composto e if encadeado
+#Exemplo de edentaçâo com if 
 a=2
 if (a==2):
   # Espaço tab para estar dentro do if a==2
