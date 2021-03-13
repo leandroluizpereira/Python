@@ -79,6 +79,21 @@ if (a==2):
 else:
   print(' O valor a == 2 é falso')
 ```
+## if composto 
+```python 
+# if composto: 
+a = 3
+print('\n======================')
+if (a == 2 ):
+  print('a == 2 verdadeiro')
+  a = 3
+elif (a == 3):
+  print('a == 3 verdadeiro')
+elif (a == 4):
+  print('a == 4 é verdadeiro')
+else :
+  print('a == 2 é falso')
+```
  ## Desvio condicional if ternário 
  ```python
  #exemplo:
