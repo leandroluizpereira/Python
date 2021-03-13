@@ -79,13 +79,13 @@ if (a==2):
 else:
   print(' O valor a == 2 é falso')
 ```
- ## if ternário 
+ ## Dsvio condicional if ternário 
  ```python
  #exemplo:
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
 print(f)
 ```
- ## for 
+ ## Estrutura for 
  
  o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar  o i++ , e para iniciar a contagem basta usar o método range(), exemplo:
  
