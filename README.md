@@ -50,6 +50,35 @@
    print('Digite um valor:')
    n = int(input())
    ```
+   ## Edentaçâo 
+   ```python 
+   
+#Exemplo de edentaçâo com if encadeado
+a=2
+if (a==2):
+  # Espaço tab para estar dentro do if a==2
+  print('a == 2 é verdadeiro')
+  a=3
+  if (a==3):
+    #Espaço tab para estar dentro da instrução if a==3
+    print(' a == 3 é verdadeiro')
+    a=4
+    b=3
+    #este if está dentro do if (a==3)
+    if (b == 3 and a == 4):
+      print('    b == 3 and a == 4 que está dentro do if a == 3 e verdadeiro')
+    else :
+      print('   o valor b == 3 and a == 4 é falso')
+  else:
+    print(' a == 3 é falso')
+  if (a==4):
+    # Espaço tab para estar dentro comando de decisão if a==4
+    print(' a == 4 é verdadeiro')
+  else :
+    print(' a == 4 é falso')
+else:
+  print(' O valor a == 2 é falso')
+  ```
  ## if ternário 
  ```python
  #exemplo:
@@ -76,6 +105,7 @@ print(f)
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
  * as aspas são opicional pode ser dupla ou simples.
+ * edentaçâo é obrigatório 
 
 ## Criação da linguagem python
 A linguagem python foi lançado em 1991 por Guido van Rossum 
