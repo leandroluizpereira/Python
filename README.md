@@ -59,6 +59,7 @@ if (a==2):
   # Espaço tab para estar dentro do if a==2
   print('a == 2 é verdadeiro')
   a=3
+  #este if está dentro do if (a==2)
   if (a==3):
     #Espaço tab para estar dentro da instrução if a==3
     print(' a == 3 é verdadeiro')
@@ -71,6 +72,7 @@ if (a==2):
       print('   o valor b == 3 and a == 4 é falso')
   else:
     print(' a == 3 é falso')
+  #este if está dentro do if (a==2)
   if (a==4):
     # Espaço tab para estar dentro comando de decisão if a==4
     print(' a == 4 é verdadeiro')
