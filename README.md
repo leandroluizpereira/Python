@@ -1,5 +1,5 @@
 
-# Principais observaçôes importantes sobre a linguagem Python
+#   Observaçôes importantes sobre a linguagem Python
  
 
  ## Declaraçâo para a variável 
