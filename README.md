@@ -18,7 +18,7 @@
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usados tando vírgula quanto o sinal de + para concatenaçâo.
-  ## Operadores lógico 
+  ## Operadores lógicos 
   ```Python
   a = 20
   b = 30
