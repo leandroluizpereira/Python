@@ -116,7 +116,12 @@ print(f)
       print(i)
 ```
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
-
+## Leitura array com for 
+```python
+array = ['0','1','2','3']
+for x in array :
+  print('indice:',x)
+```
 
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
