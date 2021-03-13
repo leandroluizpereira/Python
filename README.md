@@ -10,7 +10,7 @@
   ligarCpu = true   # bool
   a = 3.4  # float
   ```
-  #Concatenaçâo da variável
+  # Concatenaçâo da variável
   ```python 
   #exemplo 
   nome = 'Leandro Luiz Pereira'
