@@ -51,7 +51,7 @@
    n = int(input())
    ```
    ## Edentaçâo Python
-   ```python 
+```python 
    
 #Exemplo de edentaçâo com if encadeado
 a=2
@@ -78,7 +78,7 @@ if (a==2):
     print(' a == 4 é falso')
 else:
   print(' O valor a == 2 é falso')
-  ```
+```
  ## if ternário 
  ```python
  #exemplo:
