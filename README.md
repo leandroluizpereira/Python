@@ -7,7 +7,7 @@
   ```python
   #Exemplo
   x = 30; # int
-  frase = 'Leandro está estudando a linguagen python'  # String
+  frase = 'Leandro está estudando a linguagem python'  # String
   ligarCpu = true   # bool
   a = 3.4  # float
   ```
