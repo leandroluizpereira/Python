@@ -44,8 +44,8 @@
      
  
  ## Funçâo input () para entrada de dados do teclado
-   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira colocar um números tem 
-   que fazer a conversão para o tipo  de dados inteiro e bem simples no python, vamos fazer com  o seguinte algoritmo .
+   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira colocar números tem 
+   que fazer a conversão para o tipo  de dados inteiro e bem simples para fazer  no python,exemplo de algoritmo .
    ```python
    print('Digite um valor:')
    n = int(input())
