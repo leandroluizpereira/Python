@@ -29,7 +29,7 @@
   if(a<b and x<y):
     print('As duas expressôes são verdadeiro')
   else:
-    print('As duas expressões são  falsos')
+    print('As duas expressões são  falso')
   #exemplo: OR
   if(a<b or x<y):
      print('Um das expressão  são verdadeiro')
