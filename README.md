@@ -18,7 +18,7 @@
   linguagem ='Python'
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
-  nota-se que pode ser usados tando vírgula quanto o sinal de + para concatenaçâo.
+  nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
   ## Operadores lógicos 
   ```Python
   a = 20
