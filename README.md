@@ -2,10 +2,19 @@
 ## Principais observaçôes sobre a linguagem Python
  
 
+ ## Declaraçâo para a variável 
+  não e necessário colocar o tipo de dados para a variável, a indentificação e automática .
+  ```python
+  x = 30; # int
+  frase = "Leandro está estudando a linguagen python";  # String
+  ligarCpu = true   # bool
+  a = 3.4  # float
+  ```
+  
  
  ## input ()
    O input ele pega as informações digitada do teclado e retorna o tipo para String, 
-   para fazer a conversão para o tipo inteiro e bem simples no python.
+   para fazer a conversão para o tipo  de dados inteiro e bem simples no python, vamos fazer o seguinte algoritmo .
    ```python
    print('Digite um valor:')
    n = int(input())
