@@ -87,9 +87,9 @@ a = int(input())
 if (a == 2 ):
   print('if a == 2 true')
 elif (a == 3):
-  print('if a == 3 true')
+  print('elif a == 3 true')
 elif (a == 4):
-  print('if a == 4 é true')
+  print('elif a == 4 é true')
 else :
   print('if a == 2 e elif a == 3 e elif a == 4 são false')
 ```
