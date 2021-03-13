@@ -14,7 +14,7 @@
   ```python 
   #exemplo 
   nome = 'Leandro Luiz Pereira'
-  linguagem ='Dart'
+  linguagem ='Python'
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usados tando vírgula quanto o sinal de + para concatenaçâo.
