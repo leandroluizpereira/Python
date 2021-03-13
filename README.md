@@ -44,7 +44,7 @@
      
  
  ## Funçâo input 
-   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira pegar dígitos de números tem 
+   O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira pegar dígitos de números, tem 
    que fazer a conversão da variável para o tipo inteiro, e bem simples fazer esta conversão no python,exemplo:
    ```python
    print('Digite um valor:')
