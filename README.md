@@ -5,6 +5,7 @@
  ## Declaraçâo para a variável 
   não e necessário colocar o tipo de dados para a variável, a indentificação e automática .
   ```python
+  #Exemplo
   x = 30; # int
   frase = 'Leandro está estudando a linguagen python'  # String
   ligarCpu = true   # bool
@@ -12,7 +13,7 @@
   ```
   ## Concatenaçâo da variável
   ```python 
-  #exemplo 
+  #Exemplo 
   nome = 'Leandro Luiz Pereira'
   linguagem ='Python'
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
