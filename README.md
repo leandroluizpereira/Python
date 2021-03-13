@@ -50,7 +50,7 @@
    print('Digite um valor:')
    n = int(input())
    ```
-   ## Edentaçâo 
+   ## Edentaçâo Python
    ```python 
    
 #Exemplo de edentaçâo com if encadeado
