@@ -8,8 +8,12 @@
   #Exemplo
   x = 30; # int
   frase = 'Leandro está estudando a linguagem python'  # String
-  ligarCpu = true   # bool
+  ligarCpu = 'true'   # bool
   a = 3.4  # float
+  x = 3
+  #para converter e somar as variável 
+  y = float(x) + float(a)
+  print(y)
   ```
   ## Concatenaçâo da variável
   ```python 
@@ -24,7 +28,9 @@
   ```Python
   #Exemplos:
   a =[2,4,3,5,6]
-  sum()
+  sum(a)
+  
+  
   
   ```
   ## Operadores lógicos 
