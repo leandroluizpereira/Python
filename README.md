@@ -11,9 +11,6 @@
   ligarCpu = 'true'   # bool
   a = 3.4  # float
   x = 3 # int
-  #para converter e somar as variável 
-  y = float(x) + float(a)
-  print(y)
   ```
   ## Concatenaçâo da variável
   ```python 
@@ -24,11 +21,17 @@
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
   
-  ##Operadores Aritméticos 
+  ## Operadores Aritméticos 
   ```Python
   #Exemplos:
-  a =[2,4,3,5,6]
-  sum(a)
+  #para converter e somar as variável 
+  a = 3.4
+  x = 3
+  y = float(x) + float(a)
+  print(y)
+  #método sum()
+  b =[2,4,3,5,6]
+  sum(b)
   
   
   
