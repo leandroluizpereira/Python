@@ -19,6 +19,14 @@
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
+  
+  ##Operadores Aritméticos 
+  ```Python
+  #Exemplos:
+  a =[2,4,3,5,6]
+  sum()
+  
+  ```
   ## Operadores lógicos 
   ```Python
   a = 20
