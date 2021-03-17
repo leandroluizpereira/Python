@@ -61,7 +61,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   ```python
   #Exemplo
   x = 30; # int
-  frase = 'Leandro está estudando a linguagem python'  # String
+  frase = 'Leandro está estudando os conceitos da linguagem python'  # String
   ligarCpu = 'true'   # bool
   a = 3.4  # float
   x = 3 # int
