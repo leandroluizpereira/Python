@@ -3,7 +3,7 @@
 
 ## Direto ao assunto :
 
-* [Básico](#basico)
+* Básico
   * [Declaraçâo de variável](#declaracaovariavel)
   * [Concatenação de variável](#concatenacaodevariavel)
   * [Operadores Aritméticos](#operadoresaritmeticos)
@@ -14,7 +14,7 @@
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
   * [Leitura array com for](#Leituraarraycomfor)
-* [Intermediario](#)
+* Intermediario
 
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
