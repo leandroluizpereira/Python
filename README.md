@@ -35,22 +35,22 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 ## Programas ou sites prediletos
 
 
-| Programas | Sobre | Link instalaçâo |     Classificaçâo            |
+| Programas | Site | sobre |     Classificaçâo            |
 |--|--|--|--|
 |           |       |                 |:star::star::star::star::star:|
 |  |  |  |:star::star::star:                                         |
 
 
-<br>
+
 
 
  <div id='basico'/>
  
- <br>
+ 
  
  # :star: Básico
  
- <br>
+
  
  
   <div id='declaracaovariavel'/>
@@ -90,10 +90,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   print(y)
   #método sum()
   b =[2,4,3,5,6]
-  sum(b)
-  
-  
-  
+  sum(b) 
   ```
  <div id='operadoreslogicos'/>
  
