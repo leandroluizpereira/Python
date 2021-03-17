@@ -23,7 +23,7 @@
 
 #  Sobre a linguagem Python 
 
-## Criação da linguagem python
+## Criação da linguagem 
 A linguagem python foi lançado em 1991 por Guido van Rossum 
 
 ## Sintaxe da linguagem: "simples" 
