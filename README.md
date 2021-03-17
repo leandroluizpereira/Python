@@ -71,6 +71,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   
   ```
  <div id='operadoreslogicos'/>
+ 
   ## Operadores lógicos 
   ```Python
   a = 20
@@ -95,6 +96,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   ```
      
   <div id='funcaoinput'/>
+  
  ## Funçâo input 
    O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira pegar dígitos de números, tem 
    que fazer a conversão da variável para o tipo inteiro, e bem simples fazer esta conversão no python,exemplo:
@@ -103,7 +105,8 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
    n = int(input())
    ```
   <div id='edentacaopython'/>
-   ## Edentaçâo Python
+  
+## Edentaçâo Python
 ```python 
    
 #Exemplo de edentaçâo com if 
@@ -136,7 +139,9 @@ else:
 ```
 
 <div id='ifencadeado'/>
+
 ## if encadeado
+
 ```python 
 # if composto: 
 print('Digite um número de 1 a 4 ou número qualquer!')
@@ -151,13 +156,16 @@ else :
   print('if a == 2 e elif a == 3 e elif a == 4 são false')
 ```
 <div id='condicionalifternario'/>
+
  ## Desvio condicional if ternário 
+ 
  ```python
  #exemplo:
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
-print(f)
-```
+ print(f)
+ ```
 <div id='estruturafor'/>
+
  ## Estrutura for 
  
  o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar  o i++ , e para iniciar a contagem basta usar o método range(), exemplo:
@@ -171,7 +179,7 @@ print(f)
  ```python
  for i in range(10,0,-1):
       print(i)
-```
+ ```
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
 
 <div id='Leituraarraycomfor'/>
