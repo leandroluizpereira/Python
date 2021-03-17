@@ -15,7 +15,7 @@
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
   * [Leitura array com for](#Leituraarraycomfor)
-* :star: Intermediario
+* :star::star: Intermediario
 
 <div id ='sobre'/>
 
