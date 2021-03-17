@@ -18,7 +18,7 @@
 * Intermediario
 
 <div id ='sobre'/>
-
+<br>
 # Sobre
 
 ## Sintaxe da linguagem "simples" 
@@ -32,9 +32,12 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 
  <div id='basico'/>
  
+ <br>
+ 
  # Básico
  
  <br>
+ 
  
   <div id='declaracaovariavel'/>
  
