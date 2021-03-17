@@ -1,7 +1,7 @@
 
 # Anotaçôes sobre a linguagem Python
 
-## Direto ao assunto :
+## Ir direto a determinado assunto :
 
 * Básico
   * [Sobre a linguagem Python](#sobre)
