@@ -21,16 +21,16 @@
 
 <br>
 
-#  Sobre Python 
+#  Sobre a linguagem Python 
 
-## Sintaxe da linguagem "simples" 
+## Criação da linguagem python
+A linguagem python foi lançado em 1991 por Guido van Rossum 
+
+## Sintaxe da linguagem: "simples" 
  * não é obrigatório colocar ponto e vírgula.
  * as aspas são opicional pode ser dupla ou simples.
  * edentaçâo é obrigatório 
 
-## Criação da linguagem python
-A linguagem python foi lançado em 1991 por Guido van Rossum 
- 
 
 ## Programas ou sites prediletos
 
