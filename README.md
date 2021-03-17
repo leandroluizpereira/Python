@@ -37,7 +37,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 
 | Programas | Site | sobre |     Classificaçâo            |
 |--|--|--|--|
-|           |       |                 |:star::star::star::star::star:|
+|✖️|[Colab](https://colab.research.google.com/")| |:star::star::star::star::star:|
 |  |  |  |:star::star::star:                                         |
 
 
