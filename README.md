@@ -27,7 +27,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 
  <div id='basico'/>
  
- # Seçâo básico
+ # Básico
  
   <div id='declaracaovariavel'/>
  
