@@ -19,6 +19,8 @@
 
 <div id ='sobre'/>
 
+# Sobre
+
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
  * as aspas são opicional pode ser dupla ou simples.
@@ -31,6 +33,8 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
  <div id='basico'/>
  
  # Básico
+ 
+ <br>
  
   <div id='declaracaovariavel'/>
  
