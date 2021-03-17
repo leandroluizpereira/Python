@@ -1,12 +1,14 @@
 
 # Anotaçôes sobre a linguagem Python
 
-## indice 
+## Seçôes 
 
-* [Declaração de variável](#declaracaovariavel)
+* [Básico](#declaracaovariavel)
  
 
  <div id='declaracaovariavel'/>
+ 
+ # Seçâo básico
  
  ## Declaraçâo de variável
  
