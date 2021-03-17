@@ -3,10 +3,13 @@
 
 ## indice 
 
-* [Declaração de variável](#1)
+* [Declaração de variável](#declaracaovariavel)
  
 
- ##  <div id='1'/>
+ <div id='declaracaovariavel'/>
+ 
+ ## Declaraçâo de variável
+ 
   não e necessário colocar o tipo de dados para a variável, a indentificação e automática .
   ```python
   #Exemplo
