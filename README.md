@@ -73,7 +73,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   #Exemplo 
   nome = 'Leandro Luiz Pereira'
   linguagem ='Python'
-  print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
+  print(' '+nome+', acha a linguagem ',linguagem,' muito relevante')
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
   
