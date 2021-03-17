@@ -1,8 +1,12 @@
 
 # Anotaçôes sobre a linguagem Python
+
+## indice 
+
+* [Declaração de variável](#1)
  
 
- ## Declaraçâo para a variável 
+ ##  <div id='1'/>
   não e necessário colocar o tipo de dados para a variável, a indentificação e automática .
   ```python
   #Exemplo
