@@ -4,6 +4,7 @@
 ## Direto ao assunto :
 
 * Básico
+  * [Sobre a linguagem Python](#sobre)
   * [Declaraçâo de variável](#declaracaovariavel)
   * [Concatenação de variável](#concatenacaodevariavel)
   * [Operadores Aritméticos](#operadoresaritmeticos)
@@ -15,6 +16,8 @@
   * [Estrutura for](#estruturafor)
   * [Leitura array com for](#Leituraarraycomfor)
 * Intermediario
+
+<div id ='sobre'/>
 
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
