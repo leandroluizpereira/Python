@@ -34,9 +34,13 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 
 ## Programas ou sites prediletos
 
-| Programas | Sobre | Link instalaçâo | Classificaçâo |
-|------|-----|-----|:star::star::star::star::star: |
-|------|-----|-----| ----------------------------|
+
+| Programas | Sobre | Link instalaçâo |     Classificaçâo            |
+|--|--|--|--|
+|           |       |                 |:star::star::star::star::star:|
+|  |  |  |:star::star::star:                                         |
+
+
 <br>
 
 
@@ -72,6 +76,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
+  
   
   <div id='operadoresaritmeticos'/>
   
