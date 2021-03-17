@@ -3,7 +3,7 @@
 
 ## Ir direto a determinado assunto :
 
-* Básico
+* :star: Básico
   * [Sobre a linguagem Python](#sobre)
   * [Declaraçâo de variável](#declaracaovariavel)
   * [Concatenação de variável](#concatenacaodevariavel)
@@ -15,13 +15,13 @@
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
   * [Leitura array com for](#Leituraarraycomfor)
-* Intermediario
+* :star: Intermediario
 
 <div id ='sobre'/>
 
 <br>
 
-# Sobre Python 
+#  Sobre Python 
 
 ## Sintaxe da linguagem "simples" 
  * não é obrigatório colocar ponto e vírgula.
@@ -34,9 +34,9 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
 
 ## Programas ou sites prediletos
 
-| Programas | Sobre | Link instalaçâo |
-|------|-----|-----|
-|------|-----|-----|
+| Programas | Sobre | Link instalaçâo | Classificaçâo |
+|------|-----|-----|:star::star::star::star::star: |
+|------|-----|-----| ----------------------------|
 <br>
 
 
@@ -44,7 +44,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
  
  <br>
  
- # Básico
+ # :star: Básico
  
  <br>
  
