@@ -1,14 +1,35 @@
 
 # Anotaçôes sobre a linguagem Python
 
-## Seçôes 
+## Direto ao assunto :
 
-* [Básico](#declaracaovariavel)
+* [Básico](#basico)
+  * [Declaraçâo de variável](#declaracaovariavel)
+  * [Concatenação de variável](#concatenacaodevariavel)
+  * [Operadores Aritméticos](#operadoresaritmeticos)
+  * [Operadores lógicos](#operadoreslogicos)
+  * [Input funçâo](#funcaoinput)
+  * [Edentaçâo Python](#edentacaopython)
+  * [If encadeado](#ifencadeado)
+  * [Desvio condicional if ternário](#condicionalifternario)
+  * [Estrutura for](#estruturafor)
+  * [Leitura array com for](#Leituraarraycomfor)
+* [Intermediario](#)
+
+## Sintaxe da linguagem "simples" 
+ * não é obrigatório colocar ponto e vírgula.
+ * as aspas são opicional pode ser dupla ou simples.
+ * edentaçâo é obrigatório 
+
+## Criação da linguagem python
+A linguagem python foi lançado em 1991 por Guido van Rossum 
  
 
- <div id='declaracaovariavel'/>
+ <div id='basico'/>
  
  # Seçâo básico
+ 
+  <div id='declaracaovariavel'/>
  
  ## Declaraçâo de variável
  
@@ -21,6 +42,8 @@
   a = 3.4  # float
   x = 3 # int
   ```
+  <div id='concatenacaodevariavel'/>
+  
   ## Concatenaçâo da variável
   ```python 
   #Exemplo 
@@ -29,6 +52,8 @@
   print(' '+nome+', acha a linguagem ',linguagem,' muito legal')
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
+  
+  <div id='operadoresaritmeticos'/>
   
   ## Operadores Aritméticos 
   ```Python
@@ -45,6 +70,7 @@
   
   
   ```
+ <div id='operadoreslogicos'/>
   ## Operadores lógicos 
   ```Python
   a = 20
@@ -68,7 +94,7 @@
     print('as duas expresões são falso')
   ```
      
- 
+  <div id='funcaoinput'/>
  ## Funçâo input 
    O input ele pega as informações digitada do teclado e retorna o tipo para String, se caso queira pegar dígitos de números, tem 
    que fazer a conversão da variável para o tipo inteiro, e bem simples fazer esta conversão no python,exemplo:
@@ -76,6 +102,7 @@
    print('Digite um valor:')
    n = int(input())
    ```
+  <div id='edentacaopython'/>
    ## Edentaçâo Python
 ```python 
    
@@ -107,6 +134,8 @@ if (a==2):
 else:
   print(' O valor a == 2 é falso')
 ```
+
+<div id='ifencadeado'/>
 ## if encadeado
 ```python 
 # if composto: 
@@ -121,12 +150,14 @@ elif (a == 4):
 else :
   print('if a == 2 e elif a == 3 e elif a == 4 são false')
 ```
+<div id='condicionalifternario'/>
  ## Desvio condicional if ternário 
  ```python
  #exemplo:
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
 print(f)
 ```
+<div id='estruturafor'/>
  ## Estrutura for 
  
  o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar  o i++ , e para iniciar a contagem basta usar o método range(), exemplo:
@@ -142,6 +173,9 @@ print(f)
       print(i)
 ```
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
+
+<div id='Leituraarraycomfor'/>
+
 ## Leitura array com for 
 ```python
 array = ['0','1','2','3']
@@ -149,12 +183,6 @@ for x in array :
   print('indice:',x)
 ```
 
-## Sintaxe da linguagem "simples" 
- * não é obrigatório colocar ponto e vírgula.
- * as aspas são opicional pode ser dupla ou simples.
- * edentaçâo é obrigatório 
 
-## Criação da linguagem python
-A linguagem python foi lançado em 1991 por Guido van Rossum 
  
    
