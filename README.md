@@ -9,13 +9,12 @@
   * [Concatenação de variável](#concatenacaodevariavel)
   * [Operadores Aritméticos](#operadoresaritmeticos)
   * [Operadores lógicos](#operadoreslogicos)
-  * [Input funçâo](#funcaoinput)
+  * [Funçâo de entrada - input () ](#funcaoinput)
   * [Edentaçâo Python](#edentacaopython)
   * [If encadeado](#ifencadeado)
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
   * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
-  * [Leitura array com for](#Leituraarraycomfor)
 * :star::star: Intermediario
 
 <div id ='sobre'/>
@@ -189,24 +188,7 @@ else :
  ```
  <div id ='estruturadedados'>
  
- ## Estrutura de Dados 
- ### Listas
- 
- ```python
- #Estrutura de dados - lista
-#vetor  [indice 0] [indice 1] [indice 2] [indice 3]
-nomes = ["Leandro"," Rita  ", " Luiz "," Pereira "]
-#imprimir os dados 
-print(nomes[0])
-print(nomes[1])
-print(nomes[0],nomes[2],nomes[3])
-
-```
- nota-se que pode manipular a impressão de cada indice do vetor
- 
-<div id='estruturafor'/>
-
- ## Estrutura for 
+  ## Estrutura for 
  
  o laço de repetiçâo for no python o incremento é interno, ou seja não é preciso declarar  o i++ , e para iniciar a contagem basta usar o método range(), exemplo:
  
@@ -221,15 +203,52 @@ print(nomes[0],nomes[2],nomes[3])
       print(i)
  ```
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
+ 
+ ## Estrutura de Dados 
+ 
+ ## Listas
+ 
+ ```python
+ #Estrutura de dados - lista
+#vetor  [indice 0] [indice 1] [indice 2] [indice 3]
+nomes = ["Leandro"," Rita  ", " Luiz "," Pereira "]
+#imprimir os dados 
+print(nomes[0])
+print(nomes[1])
+print(nomes[0],nomes[2],nomes[3])
 
-<div id='Leituraarraycomfor'/>
-
-## Leitura array com for 
+```
+ nota-se que pode manipular a impressão de cada indice do vetor.
+ 
+ ## Leitura array de cada indice
+ 
 ```python
 array = ['0','1','2','3']
 for x in array :
   print('indice:',x)
 ```
+
+## Leitura array de cada elemento do indice
+```python
+nome =["leandro","luiz","pereira"]
+for aux in nome[2]:
+ print(type(aux),aux)
+ print(nome[0],nome[1],nome[2])
+```
+<strong>Teste de mesa:</strong>
+
+```python
+<class 'str'> p # indice [2]
+<class 'str'> e # indice [2]
+<class 'str'> r # indice [2]
+<class 'str'> e # indice [2]
+<class 'str'> i # indice [2]
+<class 'str'> r # indice [2]
+<class 'str'> a # indice [2]
+leandro luiz pereira
+```
+
+
 
 
  
