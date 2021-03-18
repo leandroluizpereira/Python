@@ -14,6 +14,7 @@
   * [If encadeado](#ifencadeado)
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
+  * [Estrutura de Dados](#estruturadedados)
   * [Leitura array com for](#Leituraarraycomfor)
 * :star::star: Intermediario
 
@@ -186,6 +187,21 @@ else :
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
  print(f)
  ```
+ <div id ='estruturadedados'>
+ 
+ ## Estrutura de Dados - listas
+ 
+ ```python
+ #Estruturura de dados - lista
+#vetor  [indice 0] [indice 1] [indice 2] [indice 3]
+nomes = ["Leandro"," Rita  ", " Luiz "," Pereira "]
+#imprimir os dados 
+print(nomes[0])
+print(nomes[1])
+print(nomes[0],nomes[2],nomes[3])
+#nota-se que pode manipular a impressão de cada indice do vetor.
+```
+ 
 <div id='estruturafor'/>
 
  ## Estrutura for 
