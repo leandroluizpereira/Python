@@ -260,10 +260,10 @@ leandro luiz pereira
 * remove (<valor a ser removido>): Remover item de uma lista.
 * sort(): Ordenar itens de uma lista. 
 * len(<nome da lista>): Quantidade de itens que a lista possui. 
-Para alterar elemento de uma lista, pode-se alterá-lo diretamente pelo seu índice. 
-Para verificar se elemento pertence ou não a uma lista podemos usar: 
-IN = verificar se item pertence a lista. 
-NOT IN = verificar se item não pertence a lista.
+* Para alterar elemento de uma lista, pode-se alterá-lo diretamente pelo seu índice. 
+* Para verificar se elemento pertence ou não a uma lista podemos usar: 
+* IN = verificar se item pertence a lista. 
+* NOT IN = verificar se item não pertence a lista.
 
 ```python
 # Um exemplo de método de organização de lista : 
