@@ -14,7 +14,7 @@
   * [If encadeado](#ifencadeado)
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
-  * [Estrutura de Dados](#estruturadedados)
+  * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
   * [Leitura array com for](#Leituraarraycomfor)
 * :star::star: Intermediario
 
@@ -189,7 +189,8 @@ else :
  ```
  <div id ='estruturadedados'>
  
- ## Estrutura de Dados - listas
+ ## Estrutura de Dados 
+ ### Listas
  
  ```python
  #Estrutura de dados - lista
