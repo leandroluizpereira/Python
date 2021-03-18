@@ -253,28 +253,28 @@ leandro luiz pereira
 <div id='metodos'>
  
 ## Métodos 
-
-1. count(<valor desejado>): Contar número de itens que possuem valor desejado.
- 
-2. append(<valor a ser adicionado>): Adicionar valor ao final da lista.
- 
-3. insert(<posiçaõ desejada>,<valor a ser adicionado>): Adicionar item numa posição específica.
- 
-4. remove (<valor a ser removido>): Remover item de uma lista.
- 
-5. sort(): Ordenar itens de uma lista.
- 
-6. len(<nome da lista>): Quantidade de itens que a lista possui.
- 
-Para alterar elemento de uma lista, pode-se alterá-lo diretamente pelo seu índice.
- 
-Para verificar se elemento pertence ou não a uma lista podemos usar:
- 
-IN = verificar se item pertence a lista.
- 
+### Métodos que facilita a organização de listas
+* count(<valor desejado>): Contar número de itens que possuem valor desejado.
+* append(<valor a ser adicionado>): Adicionar valor ao final da lista. 
+* insert(<posiçaõ desejada>,<valor a ser adicionado>): Adicionar item numa posição específica.
+* remove (<valor a ser removido>): Remover item de uma lista.
+* sort(): Ordenar itens de uma lista. 
+* len(<nome da lista>): Quantidade de itens que a lista possui. 
+Para alterar elemento de uma lista, pode-se alterá-lo diretamente pelo seu índice. 
+Para verificar se elemento pertence ou não a uma lista podemos usar: 
+IN = verificar se item pertence a lista. 
 NOT IN = verificar se item não pertence a lista.
 
-
+```python
+# Um exemplo de método de organização de lista : 
+nome = ["Leandro", "Ricardo", "Monica"]
+print("Nomes:\n", nome)
+aluno.append("Luiz")
+if "Leandro" in nome:
+    print("Leandro está na lista")
+if "Marcus" not in nome:
+    print("Marcus não está na lista")
+```
 
  
    
