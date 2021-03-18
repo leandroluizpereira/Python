@@ -248,7 +248,6 @@ for aux in nome[2]:
 <class 'str'> a # indice [2]
 leandro luiz pereira
 ```
-# :star::star: Intermediario 
 
 ## Dicionario
 
@@ -259,6 +258,10 @@ print(dicionario)
 for i in dicionario.items():
   print(i)
 ```
+
+# :star::star: Intermediario 
+
+
 <div id='metodos'>
  
 ## Métodos 
