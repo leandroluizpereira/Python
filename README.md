@@ -250,6 +250,15 @@ leandro luiz pereira
 ```
 # :star::star: Intermediario 
 
+## Dicionario
+
+```python
+dicionario = {"Cpf:":"999.999.999-99","nome:":"Leandro"}
+dicionario ["cpf:"] = "888.888.888.-88"
+print(dicionario)
+for i in dicionario.items():
+  print(i)
+```
 <div id='metodos'>
  
 ## Métodos 
