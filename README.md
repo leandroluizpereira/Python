@@ -192,15 +192,16 @@ else :
  ## Estrutura de Dados - listas
  
  ```python
- #Estruturura de dados - lista
+ #Estrutura de dados - lista
 #vetor  [indice 0] [indice 1] [indice 2] [indice 3]
 nomes = ["Leandro"," Rita  ", " Luiz "," Pereira "]
 #imprimir os dados 
 print(nomes[0])
 print(nomes[1])
 print(nomes[0],nomes[2],nomes[3])
-#nota-se que pode manipular a impressão de cada indice do vetor.
+
 ```
+ nota-se que pode manipular a impressão de cada indice do vetor
  
 <div id='estruturafor'/>
 
