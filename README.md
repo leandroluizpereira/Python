@@ -248,7 +248,7 @@ for aux in nome[2]:
 <class 'str'> a # indice [2]
 leandro luiz pereira
 ```
-# Intermediario 
+# :star::star: Intermediario 
 
 <div id='metodos'>
  
