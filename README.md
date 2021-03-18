@@ -267,6 +267,8 @@ for i in dicionario.items():
 ## Métodos 
 ### Métodos que facilita a organização de listas
 * count(<valor desejado>): Contar número de itens que possuem valor desejado.
+* values(): verificar determinado valor
+* items(): percorrer todas as chaves 
 * append(<valor a ser adicionado>): Adicionar valor ao final da lista. 
 * insert(<posiçaõ desejada>,<valor a ser adicionado>): Adicionar item numa posição específica.
 * remove (<valor a ser removido>): Remover item de uma lista.
