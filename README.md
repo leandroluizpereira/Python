@@ -16,6 +16,7 @@
   * [Estrutura for](#estruturafor)
   * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
 * :star::star: Intermediario
+  * [Métodos](#metodos)
 
 <div id ='sobre'/>
 
@@ -247,7 +248,29 @@ for aux in nome[2]:
 <class 'str'> a # indice [2]
 leandro luiz pereira
 ```
+# Intermediario 
+<div id='metodos'>
+## Métodos 
 
+1. count(<valor desejado>): Contar número de itens que possuem valor desejado.
+ 
+2. append(<valor a ser adicionado>): Adicionar valor ao final da lista.
+ 
+3. insert(<posiçaõ desejada>,<valor a ser adicionado>): Adicionar item numa posição específica.
+ 
+4. remove (<valor a ser removido>): Remover item de uma lista.
+ 
+5. sort(): Ordenar itens de uma lista.
+ 
+6. len(<nome da lista>): Quantidade de itens que a lista possui.
+ 
+Para alterar elemento de uma lista, pode-se alterá-lo diretamente pelo seu índice.
+ 
+Para verificar se elemento pertence ou não a uma lista podemos usar:
+ 
+IN = verificar se item pertence a lista.
+ 
+NOT IN = verificar se item não pertence a lista.
 
 
 
