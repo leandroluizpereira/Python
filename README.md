@@ -249,7 +249,9 @@ for aux in nome[2]:
 leandro luiz pereira
 ```
 # Intermediario 
+
 <div id='metodos'>
+ 
 ## Métodos 
 
 1. count(<valor desejado>): Contar número de itens que possuem valor desejado.
