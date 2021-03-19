@@ -207,7 +207,7 @@ else :
  
  ## Estrutura de Dados 
  
- ## Listas
+ ### Listas (list)
  
  ```python
  #Estrutura de dados - lista
@@ -249,7 +249,7 @@ for aux in nome[2]:
 leandro luiz pereira
 ```
 
-## Dicionario
+### Dicionario
 
 ```python
 dicionario = {"Cpf:":"999.999.999-99","nome:":"Leandro"}
