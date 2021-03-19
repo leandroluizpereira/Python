@@ -6,7 +6,8 @@
 * :star: Básico
   * [Sobre a linguagem Python](#sobre)
   * [Declaraçâo de variável](#declaracaovariavel)
-  * [Concatenação de variável](#concatenacaodevariavel)
+  * [Concatenaçâo de variável](#concatenacaovariavel)
+  * [Interpolaçâo de variável](#interpolacaodevariavel)
   * [Operadores Aritméticos](#operadoresaritmeticos)
   * [Operadores lógicos](#operadoreslogicos)
   * [Funçâo de entrada - input () ](#funcaoinput)
@@ -67,7 +68,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   a = 3.4  # float
   x = 3 # int
   ```
-  <div id='concatenacaodevariavel'/>
+  <div id='interpolacaodevariavel'/>
   
   ##  Interpolação de Variável 
   ```python 
@@ -76,7 +77,9 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   linguagem ='Python'
   print(' '+nome+', acha a linguagem ',linguagem,' muito relevante')
   ```
-  nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
+  nota-se que pode ser usado tando vírgula quanto o sinal de + para interpolação de variável.
+  
+  <div id='concatenacaovariavel'/>
   
   ## Concatenaçâo da variável 
   
