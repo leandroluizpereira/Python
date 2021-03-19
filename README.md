@@ -163,7 +163,7 @@ else:
 
 <div id='ifencadeado'/>
 
-## if encadeado
+## Desvio condicional: if encadeado
 
 ```python 
 # if composto: 
@@ -180,7 +180,7 @@ else :
 ```
 <div id='condicionalifternario'/>
 
- ## Desvio condicional if ternário 
+ ## Desvio condicional: if ternário 
  
  ```python
  #exemplo:
