@@ -12,7 +12,7 @@
   * [Operadores lógicos](#operadoreslogicos)
   * [Funçâo de entrada - input () ](#funcaoinput)
   * [Edentaçâo Python](#edentacaopython)
-  * [If encadeado](#ifencadeado)
+  * [Desvio condicional If encadeado](#ifencadeado)
   * [Desvio condicional if ternário](#condicionalifternario)
   * [Estrutura for](#estruturafor)
   * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
