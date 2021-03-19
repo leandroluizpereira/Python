@@ -221,15 +221,15 @@ print(nomes[0],nomes[2],nomes[3])
 ```
  nota-se que pode manipular a impressão de cada indice do vetor.
  
- ## Leitura array de cada indice
+ ## Leitura de lista de  cada indice
  
 ```python
-array = ['0','1','2','3']
-for x in array :
+lista = ['0','1','2','3']
+for x in lista :
   print('indice:',x)
 ```
 
-## Leitura array de cada elemento do indice
+## Leitura de lista de cada elemento do indice
 ```python
 nome =["leandro","luiz","pereira"]
 for aux in nome[2]:
