@@ -69,7 +69,7 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   ```
   <div id='concatenacaodevariavel'/>
   
-  ## Concatenaçâo da variável
+  ##  Interpolação de Variável 
   ```python 
   #Exemplo 
   nome = 'Leandro Luiz Pereira'
@@ -77,6 +77,17 @@ A linguagem python foi lançado em 1991 por Guido van Rossum
   print(' '+nome+', acha a linguagem ',linguagem,' muito relevante')
   ```
   nota-se que pode ser usado tando vírgula quanto o sinal de + para concatenaçâo.
+  
+  ## Concatenaçâo da variável 
+  
+  ```python 
+  #Exemplo concatenaçâo de String
+  nome = 'Leandro Luiz Pereira, '
+  frase = 'está lendo os conceitos de '
+  linguagem ='Python'
+  concatenacao = nome + frase +  linguagem 
+  print(concatenacao)
+  ```
   
   
   <div id='operadoresaritmeticos'/>
