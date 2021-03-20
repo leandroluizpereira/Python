@@ -20,10 +20,11 @@
   * [Métodos](#metodos)
   * [Funções](#function)
 * Orientação a objeto
-   *   [Modificadores](#)
-   *   [Encapsulamento](#)
-   *   [polimorfismo](#)
-   *   [herança](#)
+   *   [Modificadores](#modificadores)
+   *   [Métodos Construtor](#metodosConstrutor)
+   *   [Encapsulamento](#encapsulamento)
+   *   [polimorfismo](#polimorfismo)
+   *   [herança](#heranca)
 
 <div id ='sobre'/>
 
@@ -356,10 +357,49 @@ def apagarLuz(valor):
 ### Funçâo com retorno
 ```python
 def multiplicacao(n1,n2):
-
   resultado = n1*n2
   return resultado
-
-
 multiplicacao(3,5)
 ```  
+<div id='modificadores'>
+ 
+## Modificadores
+
+<div id ='metodosConstrutor'>
+
+## Métodos COnstrutor
+```python
+class Escola :
+ # self faz referência ao atributo que está sendo manipulado
+ # _init_ informa que esté método e o construtor
+  def _init_ (self,nome,matricula,curso):
+    self.nome = nome
+    self.matricula = matricula
+    self.curso = curso 
+    self.media = 0
+ ```
+
+<div id ='encapsulamento'>
+ 
+ ```python
+ def getNome(self):
+    return self.nome
+
+def getMatricula(self):
+    return self.matricula
+
+def getCurso(self):
+    return self.curso
+```
+
+  
+ 
+## Encapsulamento
+
+<div id ='polimorfismo'>
+ 
+## polimorfismo
+
+<div id ='heranca'>
+ 
+## herança
