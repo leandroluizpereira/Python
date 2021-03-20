@@ -18,6 +18,7 @@
   * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
 * :star::star: Intermediario
   * [Métodos](#metodos)
+  * [Funçâo](#function)
 
 <div id ='sobre'/>
 
@@ -304,5 +305,35 @@ if "Marcus" not in nome:
     print("Marcus não está na lista")
 ```
 
+<div id ='function' >
+ 
+## Função (def)
+
+
+```python
+#Exemplo: criando funçâo tabuada , com parâmetro
+
+def tabuada(numero):
+  for i in range(0,11):
+    tabuada = numero * i 
+    print(' ',numero,' X ',i,' = ',tabuada,'')
+
+tabuada(4)
+
+
+```
+<strong>Teste de mesa:</strong> 
+    
+  4  X  0  =  0 <br>
+  4  X  1  =  4 <br>
+  4  X  2  =  8 <br>
+  4  X  3  =  12 <br>
+  4  X  4  =  16 <br>
+  4  X  5  =  20 <br>
+  4  X  6  =  24 <br>
+  4  X  7  =  28 <br>
+  4  X  8  =  32 <br>
+  4  X  9  =  36 <br>
+  4  X  10  =  40 <br>
  
    
