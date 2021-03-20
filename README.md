@@ -18,7 +18,7 @@
   * [Estrutura de Dados - listas - array - dicionarios](#estruturadedados)
 * :star::star: Intermediario
   * [Métodos](#metodos)
-  * [Funçâo](#function)
+  * [Funções](#function)
 * Orientação a objeto
    *   [Modificadores](#)
    *   [Encapsulamento](#)
