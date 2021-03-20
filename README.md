@@ -19,7 +19,7 @@
 * :star::star: Intermediario
   * [Métodos](#metodos)
   * [Funçâo](#function)
-  * [Orientação a objeto](#)
+* [Orientação a objeto](#)
    *   [Modificadores](#)
    *   [Encapsulamento](#)
    *   [polimorfismo](#)
