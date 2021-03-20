@@ -304,7 +304,7 @@ for i in dicionario.items():
 # Um exemplo de método de organização de lista : 
 nome = ["Leandro", "Ricardo", "Monica"]
 print("Nomes:\n", nome)
-aluno.append("Luiz")
+nome.append("Luiz")
 if "Leandro" in nome:
     print("Leandro está na lista")
 if "Marcus" not in nome:
