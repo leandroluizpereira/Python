@@ -347,10 +347,10 @@ tabuada(4)
  ```python
  #exemplos de Funçôes de procedimento
 
-def ascenderLuz(valor):
+def ascenderLuz():
   print('Luz acessa,com sucesso')
 
-def apagarLuz(valor):
+def apagarLuz():
   print('Luz apagada,com sucesso')
 
 ```
