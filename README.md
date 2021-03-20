@@ -335,5 +335,17 @@ tabuada(4)
   4  X  8  =  32 <br>
   4  X  9  =  36 <br>
   4  X  10  =  40 <br>
- 
+  
+  
+ ### funçâo de proceimento
+ ```python
+ #exemplos de Funçôes de procedimento
+
+def ascenderLuz(valor):
+  print('Luz acessa,com sucesso')
+
+def apagarLuz(valor):
+  print('Luz apagada,com sucesso')
+
+```
    
