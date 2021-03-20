@@ -8,9 +8,9 @@ def tabuada(valor1,valor2):
       print(' ',h,'X',i,'=',calcTabuada,' ')
     print('\n')
  else:
-     print('o numero do valor 1 tem que ser menor que valor 2')
+     print('o número do valor 1 tem que ser menor que valor 2 para fazer o fatiamento')
 
-n = int(input('Tabuada número de :'))
+n = int(input('Conjunto de Tabuada de :'))
 n2 = int(input('para :'))
 print('\n')
 # Funçâo  tabuada criada fazendo fatiamentodo de conjuntos de tabuadas exemplo  de tabuada valor1 á tabuada valor2) 
