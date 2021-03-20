@@ -337,7 +337,7 @@ tabuada(4)
   4  X  10  =  40 <br>
   
   
- ### funçâo de procedimento
+ ### Funçâo de procedimento
  ```python
  #exemplos de Funçôes de procedimento
 
@@ -348,4 +348,13 @@ def apagarLuz(valor):
   print('Luz apagada,com sucesso')
 
 ```
-   
+### Funçâo com retorno
+```python
+def multiplicacao(n1,n2):
+
+  resultado = n1*n2
+  return resultado
+
+
+multiplicacao(3,5)
+```  
