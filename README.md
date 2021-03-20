@@ -369,21 +369,23 @@ multiplicacao(3,5)
 
 ## Métodos Construtor
 ```python
-class Escola :
+class EscolaParticular :
  # self faz referência ao atributo que está sendo manipulado
  # _init_ informa que esté método e o construtor
-  def _init_ (self,nome,matricula,curso):
+  def _init_ (self,cnpj,nome,cursos):
+    self.cnpj = cnpj
     self.nome = nome
-    self.matricula = matricula
-    self.curso = curso 
+    self.cursos = cursos 
     self.media = 0
  ```
 
 <div id ='encapsulamento'>
  
  ## Encapsulamento
+ Protegendo os atributos .
  
  ```python
+ class Aluno :
  def getNome(self):
     return self.nome
 
