@@ -337,7 +337,7 @@ tabuada(4)
   4  X  10  =  40 <br>
   
   
- ### funçâo de proceimento
+ ### funçâo de procedimento
  ```python
  #exemplos de Funçôes de procedimento
 
