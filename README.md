@@ -367,7 +367,7 @@ multiplicacao(3,5)
 
 <div id ='metodosConstrutor'>
 
-## Métodos COnstrutor
+## Métodos Construtor
 ```python
 class Escola :
  # self faz referência ao atributo que está sendo manipulado
@@ -381,6 +381,8 @@ class Escola :
 
 <div id ='encapsulamento'>
  
+ ## Encapsulamento
+ 
  ```python
  def getNome(self):
     return self.nome
@@ -392,9 +394,6 @@ def getCurso(self):
     return self.curso
 ```
 
-  
- 
-## Encapsulamento
 
 <div id ='polimorfismo'>
  
