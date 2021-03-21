@@ -384,9 +384,12 @@ class EscolaParticular :
  ## Encapsulamento
  Protegendo os atributos .
  
- ```python
- class Aluno :
- def getNome(self):
+```python
+class Aluno :
+
+#Método getters
+
+def getNome(self):
     return self.nome
 
 def getMatricula(self):
@@ -394,6 +397,16 @@ def getMatricula(self):
 
 def getCurso(self):
     return self.curso
+    
+#Método setter
+def setNome(self,nome):
+    self.nome = nome 
+  
+def setMatricula (self,matricula):
+    self.matricula = matricula
+  
+def setCurso (self,curso):
+    self.curso = curso
 ```
 
 
