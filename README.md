@@ -367,7 +367,7 @@ multiplicacao(3,5)
 
 <div id ='metodosConstrutor'>
 
-## Métodos Construtor
+## Método Construtor
 ```python
 class EscolaParticular :
  # self faz referência ao atributo que está sendo manipulado
