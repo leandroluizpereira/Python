@@ -21,7 +21,7 @@
   * [Funções](#function)
 * Orientação a objeto
    *   [Modificadores](#modificadores)
-   *   [Métodos Construtor](#metodosConstrutor)
+   *   [Método Construtor](#metodosConstrutor)
    *   [Encapsulamento](#encapsulamento)
    *   [polimorfismo](#polimorfismo)
    *   [herança](#heranca)
