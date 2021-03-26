@@ -387,7 +387,7 @@ class EscolaParticular :
 ```python
 class Aluno :
 
-#Método getters
+#Métodos getters
 
 def getNome(self):
     return self.nome
@@ -398,7 +398,7 @@ def getMatricula(self):
 def getCurso(self):
     return self.curso
     
-#Método setter
+#Métodos setter
 def setNome(self,nome):
     self.nome = nome 
   
