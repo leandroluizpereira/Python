@@ -285,7 +285,6 @@ for i in dicionario.items():
 * Inclusão
 * Remoçâo
 * Alteraçâo
-* 
 ```python
 # incluindo dados no dicionário
 # Primeira forma
