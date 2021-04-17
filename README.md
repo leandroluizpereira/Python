@@ -280,6 +280,49 @@ for i in dicionario.items():
   print(i)
 ```
 
+### Operaçôes com dicionários
+
+* Inclusão
+* Remoçâo
+* Alteraçâo
+* 
+```python
+# incluindo dados no dicionário
+# Primeira forma
+aluno = {
+'id':'1',
+'nome': 'Leandro Luiz',
+'idade':28,
+'formacao':'Ciências da computaçâo'
+
+aluno['AV1'] = 8.0
+print(aluno)
+}
+#  update()
+# Quando usa o update e  se o valor existir será atualizado, senão será criado
+aluno.update( {'AV2': 7.5} )
+print(aluno)
+#Atualizar as notas AV1 para 6.0 e AV2 para 9.5
+
+aluno.update({'AV1':6.0, 'AV2':9.5})
+print(aluno)
+```
+### Percorrer lista do dicionario
+```python
+
+student = []
+student.append({'name': 'Student 01','course': 'computer science','AV1':8 })
+student.append({'name': 'Student 02','course': 'computer science','AV1':7 })
+student.append({'name': 'Student 03','course': 'computer science','AV1':6 })
+student.append({'name': 'Student 03','course': 'computer science','AV1':6 })
+student.append({'name': 'Student 03','course': 'computer science','AV1':6 })
+
+
+for dictionary in student: # percorrer a lista
+  for student in [dictionary]: # percorre o dicionário
+    print(student.get('AV1')) 
+```
+
 # :star::star: Intermediario 
 
 
