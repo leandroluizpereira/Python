@@ -208,7 +208,7 @@ else :
  f = ( "Criança" if (idade < 12) else ("adolescente"  if (idade < 18) else ("adulto" if (idade < 60) else "Experiente")))
  print(f)
  ```
- <div id ='estruturadedados'>
+ <div id="estruturafor">
  
   ## Estrutura for 
  
@@ -225,6 +225,8 @@ else :
       print(i)
  ```
 <strong>Teste de mesa:</strong> ele vai fazer a contagem de 10 até 1
+
+ <div id ='estruturadedados'>
  
  ## Estrutura de Dados 
  
