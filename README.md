@@ -473,8 +473,8 @@ import request
 
 <p> Existem vários testes WEB que retornam informações e que são gratuitos.Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes.</p>
 
-[Link para o site:putsreq](https://putsreq.com/) <br>
-Create putsreq para ter o link de acesso <br>
+[Link para o site : putsreq](https://putsreq.com/) <br>
+Click em Create para ter o link de acesso a api <br>
 depois :
 
 ```python
