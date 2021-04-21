@@ -485,9 +485,9 @@ nome = input("informe seu nome: ")
 requisicao = requests.post("https://putsreq.com/[link de acesso]?name="+nome)
 print(requisicao.text)
 ```
-para pesquisar:[](http://www.omdbapi.com)
+para pesquisar:[omdbapi](http://www.omdbapi.com)
 
-## Pegar informaçôes do site OMDO 
+## Pegar informaçôes do site OMDBAPI 
 * acesse o link para pegar a chave [site : omdapi](http://www.omdbapi.com/apikey.aspx)
 
 O import json ele transforma os arquivo json em objeto para o python
