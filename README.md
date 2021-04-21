@@ -20,11 +20,13 @@
   * [Métodos](#metodos)
   * [Funções](#function)
 * Orientação a objeto
-   *   [Modificadores de acesso](#modificadores)
+  <!-- *   [Modificadores de acesso](#modificadores) -->
    *   [Método Construtor](#metodosConstrutor)
    *   [Encapsulamento](#encapsulamento)
    *   [polimorfismo](#polimorfismo)
-   *   [herança](#heranca)
+  <!-- *   [herança](#heranca) -->
+* Biblioteca 
+   *   [request - web](#request)
 
 <div id ='sobre'/>
 
@@ -458,3 +460,9 @@ def setCurso (self,curso):
 <div id ='heranca'>
  
 ## herança
+
+## Biblioteca 
+
+<div id='request'>
+ 
+### Request import 
