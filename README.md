@@ -467,6 +467,8 @@ def setCurso (self,curso):
  
 ### Import Request
 
+### 1° testando requisiçâo
+
 ```python
 import request
 ```
@@ -485,6 +487,9 @@ nome = input("informe seu nome: ")
 requisicao = requests.post("https://putsreq.com/[link de acesso]?name="+nome)
 print(requisicao.text)
 ```
+
+### 2° fazendo requisiçâo de um site
+
 para pesquisar conteudo e verificar em arquivo json : [omdbapi](http://www.omdbapi.com)
 
 ## Pegar informaçôes do site OMDBAPI 
