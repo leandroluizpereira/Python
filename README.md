@@ -25,7 +25,7 @@
    *   [Encapsulamento](#encapsulamento)
    *   [polimorfismo](#polimorfismo)
   <!-- *   [herança](#heranca) -->
-* Biblioteca 
+* Bibliotecas 
    *   [request - web](#request)
 
 <div id ='sobre'/>
