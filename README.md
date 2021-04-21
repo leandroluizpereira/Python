@@ -20,7 +20,7 @@
   * [Métodos](#metodos)
   * [Funções](#function)
 * Orientação a objeto
-   *   [Modificadores](#modificadores)
+   *   [Modificadores de acesso](#modificadores)
    *   [Método Construtor](#metodosConstrutor)
    *   [Encapsulamento](#encapsulamento)
    *   [polimorfismo](#polimorfismo)
@@ -404,7 +404,7 @@ multiplicacao(3,5)
 ```  
 <div id='modificadores'>
  
-## Modificadores
+## Modificadores de acesso
 
 <div id ='metodosConstrutor'>
 
