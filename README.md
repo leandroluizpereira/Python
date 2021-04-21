@@ -471,10 +471,10 @@ def setCurso (self,curso):
 import request
 ```
 
-Agora precisamos localizar um site WEB para efetuar nossos testes. Existem vários testes WEB que retornam informações e que são gratuitos. Você mesmo pode construir um site que realize tal operação. Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes (exatamente o que precisamos).
+<p>Agora precisamos localizar um site WEB para efetuar nossos testes. Existem vários testes WEB que retornam informações e que são gratuitos. Você mesmo pode construir um site que realize tal operação. Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes (exatamente o que precisamos).</p>
 
-[Link para o site:putsreq](https://putsreq.com/)
-Create putsreq vai aparecer o lnk de acesso 
+[Link para o site:putsreq](https://putsreq.com/) <br>
+Create putsreq vai aparecer o lnk de acesso <br>
 depois :
 
 ```python
@@ -485,3 +485,5 @@ nome = input("informe seu nome: ")
 requisicao = requests.post("https://putsreq.com/dRZCyJ4s4tfuf0vqzp9H?name="+nome)
 print(requisicao.text)
 ```
+
+
