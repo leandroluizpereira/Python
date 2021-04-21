@@ -490,7 +490,7 @@ para pesquisar:[omdbapi](http://www.omdbapi.com)
 ## Pegar informaçôes do site OMDBAPI 
 * acesse o link para pegar a chave [site : omdapi](http://www.omdbapi.com/apikey.aspx)
 
-O import json ele transforma os arquivo json em objeto para o python
+O módulo json se faz necessário para que seja possível transformar a "string" de resposta da requisição WEB em um objeto Python, mas especificamente, dicionário.
 
 ```python
 import requests
