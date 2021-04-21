@@ -497,7 +497,7 @@ import requests
 import json
  
 def omdbapi (titulo):
-    requisicao = requests.post("http://www.omdbapi.com/?i=tt3896198&apikey=[SUACHAVEAKI]"+titulo)
+    requisicao = requests.post("http://www.omdbapi.com/?apikey=SuaChaveAqui="+titulo)
     return json.loads(requisicao.text)
  
 filme = input("Nome do Filme em ingles (Braveheart): ")
