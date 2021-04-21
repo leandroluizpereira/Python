@@ -471,18 +471,18 @@ def setCurso (self,curso):
 import request
 ```
 
-<p>Agora precisamos localizar um site WEB para efetuar nossos testes. Existem vários testes WEB que retornam informações e que são gratuitos. Você mesmo pode construir um site que realize tal operação. Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes (exatamente o que precisamos).</p>
+<p> Existem vários testes WEB que retornam informações e que são gratuitos.Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes.</p>
 
 [Link para o site:putsreq](https://putsreq.com/) <br>
-Create putsreq vai aparecer o lnk de acesso <br>
+Create putsreq para ter o link de acesso <br>
 depois :
 
 ```python
 import requests
-requisicao = requests.post("https://putsreq.com/dRZCyJ4s4tfuf0vqzp9H")
+requisicao = requests.post("https://putsreq.com/[link de acesso]")
 print(requisicao.text)
 nome = input("informe seu nome: ")
-requisicao = requests.post("https://putsreq.com/dRZCyJ4s4tfuf0vqzp9H?name="+nome)
+requisicao = requests.post("https://putsreq.com/[link de acesso]?name="+nome)
 print(requisicao.text)
 ```
 para pesquisar:[](http://www.omdbapi.com)
