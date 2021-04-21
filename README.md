@@ -465,9 +465,9 @@ def setCurso (self,curso):
 
 <div id='request'>
  
-### Import Request
+## Import Request
 
-### 1° testando requisiçâo
+## 1° testando requisiçâo
 
 ```python
 import request
@@ -488,7 +488,7 @@ requisicao = requests.post("https://putsreq.com/[link de acesso]?name="+nome)
 print(requisicao.text)
 ```
 
-### 2° fazendo requisiçâo de um site
+## 2° fazendo requisiçâo de um site
 
 para pesquisar conteudo e verificar em arquivo json : [omdbapi](http://www.omdbapi.com)
 
