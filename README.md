@@ -465,7 +465,7 @@ def setCurso (self,curso):
 
 <div id='request'>
  
-### Request import
+### Import Request
 
 ```python
 import request
