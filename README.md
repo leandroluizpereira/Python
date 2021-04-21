@@ -485,5 +485,43 @@ nome = input("informe seu nome: ")
 requisicao = requests.post("https://putsreq.com/dRZCyJ4s4tfuf0vqzp9H?name="+nome)
 print(requisicao.text)
 ```
+## Pegar informaçôes do site OMDO api 
+* acesse o link para pegar o acesso a chave [site:omdapi](http://www.omdbapi.com/apikey.aspx)
+
+
+```python
+import requests
+import json
+ 
+def omdbapi (titulo):
+    requisicao = requests.post("http://www.omdbapi.com/?i=tt3896198&apikey=[SUACHAVEAKI]"+titulo)
+    return json.loads(requisicao.text)
+ 
+filme = input("Nome do Filme em ingles (Braveheart): ")
+if filme=="":
+    filme = "Braveheart"
+ 
+dicionario = omdbapi(filme)
+print("\nOMDB")
+if (dicionario["Response"]) == "False":
+    print("Filme nao localizado")
+else:
+    print ("Ano de Produção:" +dicionario["Year"])
+    print ("Genero: " + dicionario["Genre"])
+    print ("Direção: " + dicionario["Director"])
+    atores = dicionario["Actors"].split(", ")
+    printouator = False
+    for ator in atores:
+        if not printouator:
+            print ("Ator: " + ator)
+            printouator = True
+        else:
+            print("    : " + ator) 
+    ratings = dicionario["Ratings"]
+    for rating in ratings:
+        source = rating["Source"]
+        value = rating["Value"]
+        print("Fonte:",source+". Valor:",value)
+```
 
 
