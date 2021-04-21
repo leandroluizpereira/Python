@@ -485,12 +485,10 @@ nome = input("informe seu nome: ")
 requisicao = requests.post("https://putsreq.com/[link de acesso]?name="+nome)
 print(requisicao.text)
 ```
-para pesquisar:[omdbapi](http://www.omdbapi.com)
+para pesquisar conteudo e verificar em arquivo json : [omdbapi](http://www.omdbapi.com)
 
 ## Pegar informaçôes do site OMDBAPI 
-* acesse o link para pegar a chave [site : omdapi](http://www.omdbapi.com/apikey.aspx)
-
-O módulo json se faz necessário para que seja possível transformar a "string" de resposta da requisição WEB em um objeto Python, mas especificamente, dicionário.
+* [link](http://www.omdbapi.com/apikey.aspx) acesse o link e cadastra-se, depois da verificação vai ser enviado  pelo e-mail a chave de acesso 
 
 ```python
 import requests
@@ -526,5 +524,5 @@ else:
         value = rating["Value"]
         print("Fonte:",source+". Valor:",value)
 ```
-
+O módulo json se faz necessário para que seja possível transformar a "string" de resposta da requisição WEB em um objeto Python, mas especificamente, dicionário.
 
