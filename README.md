@@ -465,4 +465,12 @@ def setCurso (self,curso):
 
 <div id='request'>
  
-### Request import 
+### Request import
+
+```python
+import request
+```
+
+Agora precisamos localizar um site WEB para efetuar nossos testes. Existem vários testes WEB que retornam informações e que são gratuitos. Você mesmo pode construir um site que realize tal operação. Como teste vamos utilizar o site PutsReq. Este site permite gravar solicitações HTTP e respostas pré-programadas para que possamos efetuar testes (exatamente o que precisamos).
+
+[Link para o site:putsreq](https://putsreq.com/)
