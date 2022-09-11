@@ -19,6 +19,7 @@
 * :star::star: Intermediario
   * [Métodos](#metodos)
   * [Funções](#function)
+  * [tratamento de erro - try](#try)
 * Orientação a objeto
   <!-- *   [Modificadores de acesso](#modificadores) -->
    *   [Método Construtor](#metodosConstrutor)
@@ -353,6 +354,23 @@ if "Leandro" in nome:
 if "Marcus" not in nome:
     print("Marcus não está na lista")
 ```
+<div id ='try' >
+
+## tratamento de erro - try 
+
+```python
+
+try:
+  x = int(input('Digite um valor inteiro: '))
+except:
+    print('O valor informado é invalido')
+else:
+      print(f'Valor digitado {x}')
+
+```
+
+<strong> try </strong> tratamento de erro podemos alterar a mensagem de possiveis erro que retorna para o usuario , neste caso a mensagem aparece quando o usuario digita a letra ai vai retornar a mensagem o valor informado é inválido 
+
 
 <div id ='function' >
  
@@ -451,6 +469,9 @@ def setMatricula (self,matricula):
 def setCurso (self,curso):
     self.curso = curso
 ```
+
+
+
 
 
 <div id ='polimorfismo'>
