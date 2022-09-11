@@ -28,6 +28,8 @@
   <!-- *   [herança](#heranca) -->
 * Bibliotecas 
    *   [Request - web](#request)
+* outros 
+   *   [Manipulação de dados](#mani)
 
 <div id ='sobre'/>
 
@@ -551,4 +553,74 @@ else:
         print("Fonte:",source+". Valor:",value)
 ```
 O módulo json se faz necessário para que seja possível transformar a "string" de resposta da requisição WEB em um objeto Python, mas especificamente, dicionário.
+
+
+<div id='mani'>
+
+## Manipulando um arquivo
+
+```python
+with open('/content/arquivo_texto.txt') as txt:
+  for linha in txt:
+    print(linha)
+```
+Estou aprendendo python
+
+Estou gostando bastante
+
+dessa linguagem
+
+top
+
+O prof. Truaue é legal
+
+```python
+with open('/content/arquivo_texto.txt') as txt:
+  r = txt.readlines();
+print(r)
+
+print(r[4])
+['Estou aprendendo python\n', 'Estou gostando bastante\n', 'dessa linguagem\n', 'top\n', 'O prof. Truaue é legal']
+O prof. Truaue é legal
+with open('/content/arquivo_2.txt', 'w') as texto:
+  texto.write('Olá mundo')
+with open('/content/arquivo_2.txt', 'r') as txt:
+  r = txt.readlines();
+print(r)
+txt.close()
+['Olá mundo']
+
+```
+Exercício de fixação
+Considerando o dicionário com o nome dos alunos e suas respectivas notas abaixo, crie uma estrutura de repetição para percorrer cada elemento do dicionário para gravar cada aluno em um novo arquivo de texto, considerando que:
+
+Cada aluno deve ocupar uma linha do novo arquivo de texto
+O formato deve ser: nome,nota (Dyego,10.0)
+Após a criação do arquivo de texto, faça a leitura do arquivo e mostre todos os alunos
+alunos = {'Dyego': 10.0, 'Edilson': 9.0, 'Livia': 8.5, 'Lucca': 1.5}
+
+```python
+
+alunos = {'Dyego': 10.0, 'Edilson': 9.0, 'Livia': 8.5, 'Lucca': 1.5}
+print(alunos)
+{'Dyego': 10.0, 'Edilson': 9.0, 'Livia': 8.5, 'Lucca': 1.5}
+with open('alunos.txt', 'w') as arquivo:
+  for aluno, nota in alunos.items():
+    arquivo.write(f'{aluno},{nota}\n')
+arquivo.close()
+#teste (leitura do arq.):
+with open('alunos.txt', 'r') as arquivo:
+  for linha in arquivo:
+    print(linha)
+
+arquivo.close()
+
+```
+Dyego,10.0
+
+Edilson,9.0
+
+Livia,8.5
+
+Lucca,1.5
 
